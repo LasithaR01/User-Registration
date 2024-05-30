@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+using System.Runtime.Remoting.Contexts;
 
 namespace User_Login
 {
@@ -17,7 +19,7 @@ namespace User_Login
         {
             InitializeComponent();
         }
-
+        SqlConnection connection=new SqlConnection("Data Source = (LocalDB)\\MSSQLLocalDB; AttachDbFilename=C:\\Users\\Lasitha Ransara\\Documents\\LoginDB.mdf;Integrated Security = True; Connect Timeout = 30");
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
