@@ -143,10 +143,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(63, 28);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(63, 23);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(54, 16);
+            this.label2.Size = new System.Drawing.Size(55, 15);
             this.label2.TabIndex = 0;
             this.label2.Text = "Reg No";
             // 
@@ -171,11 +171,11 @@
             // 
             this.linkLabel4.AutoSize = true;
             this.linkLabel4.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.linkLabel4.Font = new System.Drawing.Font("Franklin Gothic Demi", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel4.Font = new System.Drawing.Font("Franklin Gothic Demi", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel4.LinkColor = System.Drawing.Color.Gray;
             this.linkLabel4.Location = new System.Drawing.Point(84, 47);
             this.linkLabel4.Name = "linkLabel4";
-            this.linkLabel4.Size = new System.Drawing.Size(84, 17);
+            this.linkLabel4.Size = new System.Drawing.Size(77, 16);
             this.linkLabel4.TabIndex = 6;
             this.linkLabel4.TabStop = true;
             this.linkLabel4.Text = "Basic Details";
@@ -276,11 +276,11 @@
             // 
             this.linkLabel5.AutoSize = true;
             this.linkLabel5.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.linkLabel5.Font = new System.Drawing.Font("Franklin Gothic Demi", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel5.Font = new System.Drawing.Font("Franklin Gothic Demi", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel5.LinkColor = System.Drawing.Color.Gray;
             this.linkLabel5.Location = new System.Drawing.Point(88, 238);
             this.linkLabel5.Name = "linkLabel5";
-            this.linkLabel5.Size = new System.Drawing.Size(97, 17);
+            this.linkLabel5.Size = new System.Drawing.Size(88, 16);
             this.linkLabel5.TabIndex = 7;
             this.linkLabel5.TabStop = true;
             this.linkLabel5.Text = "Contact Details";
@@ -294,7 +294,7 @@
             this.panel4.Controls.Add(this.label12);
             this.panel4.Controls.Add(this.label13);
             this.panel4.Controls.Add(this.label14);
-            this.panel4.Location = new System.Drawing.Point(56, 440);
+            this.panel4.Location = new System.Drawing.Point(56, 442);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(742, 144);
             this.panel4.TabIndex = 8;
@@ -331,11 +331,11 @@
             // 
             this.linkLabel6.AutoSize = true;
             this.linkLabel6.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.linkLabel6.Font = new System.Drawing.Font("Franklin Gothic Demi", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel6.Font = new System.Drawing.Font("Franklin Gothic Demi", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel6.LinkColor = System.Drawing.Color.Gray;
             this.linkLabel6.Location = new System.Drawing.Point(95, 432);
             this.linkLabel6.Name = "linkLabel6";
-            this.linkLabel6.Size = new System.Drawing.Size(90, 17);
+            this.linkLabel6.Size = new System.Drawing.Size(82, 16);
             this.linkLabel6.TabIndex = 7;
             this.linkLabel6.TabStop = true;
             this.linkLabel6.Text = "Parent Details";
